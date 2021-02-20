@@ -10,6 +10,7 @@ const GlobalStyle = createGlobalStyle`
 body{
    background:#1b1b1b; 
    font-family: 'Roboto', sans-serif;
+   font-size:62.5%;
 }
 
 button{
@@ -31,7 +32,7 @@ button{
 
     h2 {
         font-weight:lighter;
-        font-size:4rem;
+        font-size:3rem;
     }
 
     h3 {
@@ -40,6 +41,7 @@ button{
     }
 
     h4{
+        font-size:2rem;
         font-weight:bold;
         
     }
